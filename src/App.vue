@@ -5,9 +5,9 @@
 </template>
 
 <script>
-import addBlog from './components/addBlog.vue'
-import showBlogs from './components/showBlogs.vue'
-import listBlogs from './components/listBlogs.vue'
+import addBlog from './components/addBlog.vue';
+import showBlogs from './components/showBlogs.vue';
+import listBlogs from './components/listBlogs.vue';
 
 export default {
   components:{
